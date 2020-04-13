@@ -8017,7 +8017,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 @media only screen and (max-width:991px) {
 .header-botton .navbar-toggle {
-    float:left;
+    float: right;
 	margin:9px 0;
 }	
 .header-botton .navbar-toggle span {
@@ -8245,7 +8245,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-nav {
 	position:relative;
 	padding:0;
-	float: right;
+	/* float: right; */
 }
 
 .header-nav .nav {
