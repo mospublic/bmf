@@ -7840,8 +7840,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	padding:0; 
 	font-size:36px;  
 	color:#1bbce8;
-	margin-top:10px;
-	margin-bottom:10px;
+	margin-top:0;
+	margin-bottom:0;
 	margin-left:0;
 	margin-right:0;
 	width: 220px;
@@ -8245,8 +8245,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-nav {
 	position:relative;
 	padding:0;
-	float: right;    
-	/*注释后移动端位置是对的，pc版就不对，*/
+	float: right;
 }
 
 .header-nav .nav {
